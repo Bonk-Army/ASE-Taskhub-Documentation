@@ -11,7 +11,7 @@ Version <1.0>
 |------------|---------|-------------|--------|
 | XX.XX.XXXX |   X.X   |  <details>  | <name> |
 
-## Table of contents
+- [#Revision History](#-revision-history)
 - [1. Introduction](#1-introduction)
   * [1.1 Purpose](#11-purpose)
   * [1.2 Scope](#12-scope)
@@ -24,11 +24,17 @@ Version <1.0>
   * [2.3 Technology Stack](#23-technology-stack)
 - [3. Specific Requirements](#3-specific-requirements)
   * [3.1 Functionality](#31-functionality)
-  * [3.2 Usability](#32-usability)
-  * [3.3 Reliability](#33-reliability)
-  * [3.4 Perfomance](#34-perfomance)
+    + [3.1.1 Functional Requirement One](#311-functional-requirement-one)
+- [3.2 Usability](#32-usability)
+  * [3.2.1 Usability Requirement One](#321-usability-requirement-one)
+- [3.3 Reliability](#33-reliability)
+  * [3.3.1 Reliability Requirement One](#331-reliability-requirement-one)
+- [3.4 Perfomance](#34-perfomance)
+  * [3.4.1 Performance Requirement One](#341-performance-requirement-one)
   * [3.5 Supportability](#35-supportability)
+    + [3.5.1 Supportability Requirement One](#351-supportability-requirement-one)
   * [3.6 Design Constraints](#36-design-constraints)
+    + [3.6.1 <Design Constraint One>](#361--design-constraint-one-)
   * [3.7 On-line User Documentation and Help System Requirements](#37-on-line-user-documentation-and-help-system-requirements)
   * [3.8 Purchased Components](#38-purchased-components)
   * [3.9 Interfaces](#39-interfaces)
@@ -40,7 +46,6 @@ Version <1.0>
   * [3.11 Legal, Copyright, and Other Notices](#311-legal--copyright--and-other-notices)
   * [3.12 Applicable Standards](#312-applicable-standards)
 - [4. Supporting Information](#4-supporting-information)
-
 
 ## 1. Introduction
 [The introduction of the Software Requirements Specification (SRS) should provide an overview of the entire SRS. It should include the purpose, scope, definitions, acronyms, 
