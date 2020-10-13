@@ -34,7 +34,7 @@ Version <1.0>
   * [3.5 Supportability](#35-supportability)
     + [3.5.1 Supportability Requirement One](#351-supportability-requirement-one)
   * [3.6 Design Constraints](#36-design-constraints)
-    + [3.6.1 <Design Constraint One>](#361--design-constraint-one-)
+    + [3.6.1 Design Constraint One](#361--design-constraint-one-)
   * [3.7 On-line User Documentation and Help System Requirements](#37-on-line-user-documentation-and-help-system-requirements)
   * [3.8 Purchased Components](#38-purchased-components)
   * [3.9 Interfaces](#39-interfaces)
