@@ -1,31 +1,35 @@
 # TaskHub - Software Requirements Specification 
 
 ## Table of contents
-- [Table of contents](#table-of-contents)
-- [Introduction](#1-introduction)
-    - [Purpose](#11-purpose)
-    - [Scope](#12-scope)
-    - [Definitions, Acronyms and Abbreviations](#13-definitions-acronyms-and-abbreviations)
-    - [References](#14-references)
-    - [Overview](#15-overview)
-- [Overall Description](#2-overall-description)
-    - [Vision](#21-vision)
-    - [Use Case Diagram](#22-use-case-diagram)
-	- [Technology Stack](#23-technology-stack)
-- [Specific Requirements](#3-specific-requirements)
-    - [Functionality](#31-functionality)
-    - [Usability](#32-usability)
-    - [Reliability](#33-reliability)
-    - [Performance](#34-performance)
-    - [Supportability](#35-supportability)
-    - [Design Constraints](#36-design-constraints)
-    - [Online User Documentation and Help System Requirements](#37-on-line-user-documentation-and-help-system-requirements)
-    - [Purchased Components](#purchased-components)
-    - [Interfaces](#39-interfaces)
-    - [Licensing Requirements](#310-licensing-requirements)
-    - [Legal, Copyright And Other Notices](#311-legal-copyright-and-other-notices)
-    - [Applicable Standards](#312-applicable-standards)
-- [Supporting Information](#4-supporting-information)
+- [1. Introduction](#1-introduction)
+  * [1.1 Purpose](#11-purpose)
+  * [1.2 Scope](#12-scope)
+  * [1.3 Definitions, Acronyms and Abbreviations](#13-definitions--acronyms-and-abbreviations)
+  * [1.4 References](#14-references)
+  * [1.5 Overview](#15-overview)
+- [2. Overall Description](#2-overall-description)
+  * [2.1 Vision](#21-vision)
+  * [2.2 Use Case Diagram](#22-use-case-diagram)
+  * [2.3 Technology Stack](#23-technology-stack)
+- [3. Specific Requirements](#3-specific-requirements)
+  * [3.1 Functionality](#31-functionality)
+  * [3.2 Usability](#32-usability)
+  * [3.3 Reliability](#33-reliability)
+  * [3.4 Perfomance](#34-perfomance)
+  * [3.5 Supportability](#35-supportability)
+  * [3.6 Design Constraints](#36-design-constraints)
+  * [3.7 On-line User Documentation and Help System Requirements](#37-on-line-user-documentation-and-help-system-requirements)
+  * [3.8 Purchased Components](#38-purchased-components)
+  * [3.9 Interfaces](#39-interfaces)
+    + [3.9.1 User Interfaces](#391-user-interfaces)
+    + [3.9.2 Hardware Interfaces](#392-hardware-interfaces)
+    + [3.9.3 Software Interfaces](#393-software-interfaces)
+    + [3.9.4 Communications Interfaces](#394-communications-interfaces)
+  * [3.10 Licensing Requirements](#310-licensing-requirements)
+  * [3.11 Legal, Copyright, and Other Notices](#311-legal--copyright--and-other-notices)
+  * [3.12 Applicable Standards](#312-applicable-standards)
+- [4. Supporting Information](#4-supporting-information)
+
 
 ## 1. Introduction
 
@@ -108,6 +112,18 @@ to be determined (tbd)
 to be determined (tbd)
 
 ### 3.9 Interfaces
+to be determined (tbd)
+
+#### 3.9.1 User Interfaces
+to be determined (tbd)
+
+#### 3.9.2 Hardware Interfaces
+to be determined (tbd)
+
+#### 3.9.3 Software Interfaces
+to be determined (tbd)
+
+#### 3.9.4 Communications Interfaces
 to be determined (tbd)
 
 ### 3.10 Licensing Requirements
