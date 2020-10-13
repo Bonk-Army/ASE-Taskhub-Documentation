@@ -1,13 +1,15 @@
-#<Project Name>
-#Software Requirements Specification
-#For <Subsystem or Feature>
-#Version <1.0>
+<Project Name> Software Requirements Specification 
+ for <Subsystem or Feature>
+======
+Version <1.0>
+======
 
-##Revision History
+#Revision History
+-----
+
 |    Date    | Version | Description | Author |
 |------------|---------|-------------|--------|
 | XX.XX.XXXX |   X.X   |  <details>  | <name> |
-|------------|---------|-------------|--------|
 
 ## Table of contents
 - [1. Introduction](#1-introduction)
@@ -61,7 +63,6 @@ else that is affected or influenced by this document.]
 [This subsection should provide the definitions of all terms, acronyms, and abbreviations required to properly interpret the SRS.  This information may be provided by reference 
 to the project Glossary.]
 
-| ----------- | -------------------------------------- |
 | Abbrevation | Explanation                            |
 | ----------- | -------------------------------------- |
 | SRS         | Software Requirements Specification    |
@@ -73,7 +74,6 @@ to the project Glossary.]
 [This subsection should provide a complete list of all documents referenced elsewhere in the SRS.  Each document should be identified by title, report number (if applicable), 
 date, and publishing organization.  Specify the sources from which the references can be obtained. This information may be provided by reference to an appendix or to another 
 document.]
-| --------------------------------------------------------------------------------|:----------:| ------------------------- |
 | Title                                                                           | Date       | Publishing organization   |
 | --------------------------------------------------------------------------------|:----------:| ------------------------- |
 | [Topic](URL)                                                                    | XX.XX.XXXX | <author>                  |
