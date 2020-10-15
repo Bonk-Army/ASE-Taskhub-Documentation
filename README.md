@@ -57,11 +57,12 @@ to be determined (tbd)
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
-| Abbrevation | Explanation                            |
-| ----------- | -------------------------------------- |
-| SRS         | Software Requirements Specification    |
-| n/a         | not applicable                         |
-| tbd         | to be determined                       |
+|     Abbrevation      |                            Explanation                                   |
+| -------------------- | ------------------------------------------------------------------------ |
+| SRS                  | Software Requirements Specification                                      |
+| n/a                  | not applicable                                                           |
+| tbd                  | to be determined                                                         |
+| not applicable (n/a) | Items that are not relevant have been maintained but contain the comment |
 
 ### 1.4 References
 | Title                                                                                    | Date       | Publishing organization   |
