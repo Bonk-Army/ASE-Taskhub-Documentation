@@ -132,29 +132,30 @@ The registered User should be able to join a team.
 #### 3.1.4 Colloborative Work
 The different users should be able to make an solution together
 
-## 3.2 Usability
+### 3.2 Usability
 We want to create an lightway easy to use Webapp for working together colloborative.
 
-### 3.2.1 Easy to understand
+#### 3.2.1 Easy to understand
 An easy to understand overlay with all necessary informations and functions
 
-### 3.2.2 No Overloaded features
+#### 3.2.2 No Overloaded features
 We want to stay in an lightway app. Not many function noone ever will use.
 
-## 3.3 Reliability
+### 3.3 Reliability
 The webapp should be online at any time.
 
-### 3.3.1 Backup feature of Solutions
+#### 3.3.1 Backup feature of Solutions
 Backup the Solutions on a private space, to negate the possibility of Data loss
 
-## 3.4 Perfomance
+### 3.4 Perfomance
 Should be quite quick, noone likes long loading apps
 
-### 3.4.1 Speed
+#### 3.4.1 Speed
 Qick Loading Speed
 
 ### 3.5 Supportability
 to be determined (tbd)
+
 #### 3.5.1 Supportability Requirement One
 [The requirement description goes here.]
 
