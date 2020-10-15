@@ -92,9 +92,10 @@ to be determined (tbd)
 [<img src="https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UML/TaskHubUML.png">](UML)
 
 ### 2.3 Technology Stack
-Backend : Node.Js \n
-API : RestAPI \n
-Frontend : Angular
+- Backend : Node.Js
+- API : RestAPI
+- Frontend : Angular
+
 
 ## 3. Specific Requirements
 [This section of the SRS should contain all the software requirements to a level of detail sufficient to enable designers to design a system to satisfy those requirements, 
