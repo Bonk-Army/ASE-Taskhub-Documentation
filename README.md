@@ -62,7 +62,6 @@ to be determined (tbd)
 | SRS         | Software Requirements Specification    |
 | n/a         | not applicable                         |
 | tbd         | to be determined                       |
-| ----------- | -------------------------------------- |
 
 ### 1.4 References
 | Title                                                                                    | Date       | Publishing organization   |
@@ -70,7 +69,6 @@ to be determined (tbd)
 | [TaskHub Blog](https://taskhub854228916.wordpress.com/)                                  | 15.10.2020 | TaskHub Team              |
 | [GitHub Repo for Code](https://github.com/Unk3wn/TaskHub---Documentation/)               | 15.10.2020 | TaskHub Team              |
 | [GitHub Repo for Documentation](https://github.com/Unk3wn/TaskHub---Documentation/)      | 15.10.2020 | TaskHub Team              |
-| -----------------------------------------------------------------------------------------|:----------:| ------------------------- |
 
 
 ### 1.5 Overview
