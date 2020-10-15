@@ -89,7 +89,7 @@ Instead, it provides a background for those requirements, which are defined in d
 to be determined (tbd)
 
 ### 2.2 Use Case Diagram
-[<img src="https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/TaskHubUML.png">](UML)
+[<img src="https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UML/TaskHubUML.png">](UML)
 
 ### 2.3 Technology Stack
 to be determined (tbd)
