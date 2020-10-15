@@ -92,8 +92,8 @@ to be determined (tbd)
 [<img src="https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UML/TaskHubUML.png">](UML)
 
 ### 2.3 Technology Stack
-Backend : Node.Js
-API : RestAPI
+Backend : Node.Js \n
+API : RestAPI \n
 Frontend : Angular
 
 ## 3. Specific Requirements
