@@ -16,17 +16,22 @@ Version <1.0>
   * [2.3 Technology Stack](#23-technology-stack)
 - [3. Specific Requirements](#3-specific-requirements)
   * [3.1 Functionality](#31-functionality)
-    + [3.1.1 Functional Requirement One](#311-functional-requirement-one)
-- [3.2 Usability](#32-usability)
-  * [3.2.1 Usability Requirement One](#321-usability-requirement-one)
-- [3.3 Reliability](#33-reliability)
-  * [3.3.1 Reliability Requirement One](#331-reliability-requirement-one)
-- [3.4 Perfomance](#34-perfomance)
-  * [3.4.1 Performance Requirement One](#341-performance-requirement-one)
+    + [3.1.1 User Registration](#311-user-registration)
+    + [3.1.2 Classes](#312-classes)
+    + [3.1.3 Teams](#313-teams)
+    + [3.1.4 Colloborative Work](#314-colloborative-work)
+  * [3.2 Usability](#32-usability)
+    + [3.2.1 Easy to understand](#321-easy-to-understand)
+    + [3.2.2 No Overloaded features](#322-no-overloaded-features)
+  * [3.3 Reliability](#33-reliability)
+    + [3.3.1 Backup feature of Solutions](#331-backup-feature-of-solutions)
+  * [3.4 Perfomance](#34-perfomance)
+    + [3.4.1 Speed](#341-speed)
   * [3.5 Supportability](#35-supportability)
     + [3.5.1 Supportability Requirement One](#351-supportability-requirement-one)
   * [3.6 Design Constraints](#36-design-constraints)
-    + [3.6.1 Design Constraint One](#361--design-constraint-one-)
+    + [3.6.1 Lightway](#361-lightway)
+    + [3.6.1 Minimalistic](#361-minimalistic)
   * [3.7 On-line User Documentation and Help System Requirements](#37-on-line-user-documentation-and-help-system-requirements)
   * [3.8 Purchased Components](#38-purchased-components)
   * [3.9 Interfaces](#39-interfaces)
@@ -86,7 +91,9 @@ Instead, it provides a background for those requirements, which are defined in d
  - requirements subsets]
 
 ### 2.1 Vision
-to be determined (tbd)
+The main functions of our webapp are the collaborative features. In our vision many users can write simultaneously into shared documents to solve problems or tasks as a living group. As a team member you can write your discoveries about the task or your finished solution approach into this document to share with your team.
+
+We got inspired by an CTF Tool, which many teams use in their workflow. In this tool you can create tasks with notes on specific topics. Also you can set deadlines or assign a specific member, an expert, to a task.
 
 ### 2.2 Use Case Diagram
 [<img src="https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UML/TaskHubUML.png">](UML)
@@ -95,38 +102,56 @@ to be determined (tbd)
 - L inux
 - A pache
 - M ySql
+- A ngular
 
 
 ## 3. Specific Requirements
-[This section of the SRS should contain all the software requirements to a level of detail sufficient to enable designers to design a system to satisfy those requirements, 
-and testers to test that the system satisfies those requirements.   When using use-case modeling, these requirements are captured in the Use-Cases and the applicable 
-supplementary specifications.  If use-case modeling is not used, the outline for supplementary specifications may be inserted directly into this section, as shown below.]
+
 
 ### 3.1 Functionality
 This section will explain the different use cases, you could see in the Use Case Diagram, and their functionality.
-Until December we plan to implement: to be determined (tbd)
-Until June, we want to implement: to be determined (tbd)
+Until December we plan to implement: 
+- User Registration
+- User Login
+- Class Functions
+- Team Functions
+Until June, we want to implement:
+- Colloborative Work
+- Grading
+- Notifications
 
-#### 3.1.1 Functional Requirement One
-[The requirement description.]
+#### 3.1.1 User Registration
+The User should be able to register.
+
+#### 3.1.2 Classes
+The registered User can be assigned to an class.
+
+#### 3.1.3 Teams
+The registered User should be able to join a team.
+
+#### 3.1.4 Colloborative Work
+The different users should be able to make an solution together
 
 ## 3.2 Usability
-to be determined (tbd)
+We want to create an lightway easy to use Webapp for working together colloborative.
 
-### 3.2.1 Usability Requirement One
-[The requirement description goes here.]
+### 3.2.1 Easy to understand
+An easy to understand overlay with all necessary informations and functions
+
+### 3.2.2 No Overloaded features
+We want to stay in an lightway app. Not many function noone ever will use.
 
 ## 3.3 Reliability
-to be determined (tbd)
+The webapp should be online at any time.
 
-### 3.3.1 Reliability Requirement One
-[The requirement description.]
+### 3.3.1 Backup feature of Solutions
+Backup the Solutions on a private space, to negate the possibility of Data loss
 
 ## 3.4 Perfomance
-to be determined (tbd)
+Should be quite quick, noone likes long loading apps
 
-### 3.4.1 Performance Requirement One
-[The requirement description goes here.]
+### 3.4.1 Speed
+Qick Loading Speed
 
 ### 3.5 Supportability
 to be determined (tbd)
@@ -134,30 +159,34 @@ to be determined (tbd)
 [The requirement description goes here.]
 
 ### 3.6 Design Constraints
-to be determined (tbd)
+Lightway, minimalistic Design
 
-#### 3.6.1 <Design Constraint One>
-[The requirement description goes here.]
+#### 3.6.1 Lightway
+Only frequently used features get included. Not to much functions!
+
+#### 3.6.1 Minimalistic
+Easy to use and minimimalistic interface without many graphics etc.
 
 ### 3.7 On-line User Documentation and Help System Requirements
-to be determined (tbd)
+Documentation gets published on the Mentioned Repo on Point 1.4. But we also want to comment the Code to get an easy access for everyone, who is interested in our Project!
 
 ### 3.8 Purchased Components
-to be determined (tbd)
+n/a
 
 ### 3.9 Interfaces
 to be determined (tbd)
+
 #### 3.9.1 User Interfaces
-[Describe the user interfaces that are to be implemented by the software.]
+We want to interact with the user in an Webapp.
 
 #### 3.9.2 Hardware Interfaces
-to be determined (tbd)
+n/a
 
 #### 3.9.3 Software Interfaces
-to be determined (tbd)
+We want to use RestAPI's for the most Part to connect the Frontend to the Backend
 
 #### 3.9.4 Communications Interfaces
-to be determined (tbd)
+n/a
 
 ### 3.10 Licensing Requirements
 to be determined (tbd)
