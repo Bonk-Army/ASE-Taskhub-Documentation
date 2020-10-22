@@ -123,19 +123,23 @@ Until June, we want to implement:
 
 #### 3.1.1 Create a Class
 The Use Case "Create a Class" describes how an admin can create a new class.
-[Link to our UC](./UC/UCD/AddUserToClass/UCS_CreateClass.md)
+[Here you can find our UC](./UC/UCD/AddUserToClass/UCS_CreateClass.md)
 
 #### 3.1.2. Assign Teacher
-[Link to our UC](./UC/UCD/AddUserToClass/UCS_AssignTeacher.md)
+The Use Case "Assign Teacher" describes how an admin can give an existing user the teacher role.
+[Here you can find our UC](./UC/UCD/AddUserToClass/UCS_AssignTeacher.md)
 
 #### 3.1.3. Add User to Class
-[Link to our UC](./UC/UCD/AddUserToClass/UCS_AddUserToClass.md)
+The Use Case "Add User to Class" describes how an admin can add some existing users to an existing class.
+[Here you can find our UC](./UC/UCD/AddUserToClass/UCS_AddUserToClass.md)
 
 #### 3.1.4. Create new Task
-[Link to our UC](./UC/UCD/AddUserToClass/UCS_CreateNewTask.md)
+The Use Case "Create new Task" describes how a teacher can create a new task for an existing class with a deadline.
+[Here you can find our UC](./UC/UCD/AddUserToClass/UCS_CreateNewTask.md)
 
 #### 3.1.5. Edit Solution
-[Link to our UC](./UC/UCD/AddUserToClass/UCS_EditSolution.md)
+The Use Case "Edit Solution" describes how a teammate can edit solutions for an existing task.
+[Here you can find our UC](./UC/UCD/AddUserToClass/UCS_EditSolution.md)
 
 ### 3.2 Usability
 We want to create an lightway easy to use Webapp for working together colloborative.
@@ -206,5 +210,5 @@ The development will follow the common clean code standards and naming conventio
 ## 4. Supporting Information
 For any further information you can contact the TaskHub Team or check our (TaskHub Blog)[https://taskhub854228916.wordpress.com/]. The Team Members are:
 - Nico
-- Kristin
+- Krissi
 - Danny
