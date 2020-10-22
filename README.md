@@ -121,13 +121,20 @@ Until June, we want to implement:
 - Notifications
 
 #### 3.1.1 Create a Class
-asdasdadsdssdsdas
-[Link to our UC](./UC/UCD/AddUserToClass/UCS_AddUserToClass.md)
+The Use Case "Create a Class" describes how an admin can create a new class.
+[Link to our UC](./UC/UCD/AddUserToClass/UCS_CreateClass.md)
 
 #### 3.1.2. Assign Teacher
+[Link to our UC](./UC/UCD/AddUserToClass/UCS_AssignTeacher.md)
+
 #### 3.1.3. Add User to Class
+[Link to our UC](./UC/UCD/AddUserToClass/UCS_AddUserToClass.md)
+
 #### 3.1.4. Create new Task
+[Link to our UC](./UC/UCD/AddUserToClass/UCS_CreateNewTask.md)
+
 #### 3.1.5. Edit Solution
+[Link to our UC](./UC/UCD/AddUserToClass/UCS_EditSolution.md)
 
 ### 3.2 Usability
 We want to create an lightway easy to use Webapp for working together colloborative.
