@@ -22,11 +22,11 @@ The user must have the needed rights as a teacher to update a task.
 
 ## 4. Preconditions
 ### 4.1 User needs to be logged in
-The user needs to be authentificated, to get the specific user rights. He also have to be a teacher, just the users with a teacher role have the access to update a task.
+The user needs to be authenticated, to get the specific user rights. He also have to be a teacher, just the users with a teacher role have the access to update a task.
 
 ## 5. Postconditions
 ### 5.1 New Task is created
-The task will be updated in the DB and the changes are accesable for the teacher and for the assigned class.
+The task will be updated in the DB, and the changes are accessible for the teacher and for the assigned class.
  __picture must be inserted__
   
 ## 6. Extension Points

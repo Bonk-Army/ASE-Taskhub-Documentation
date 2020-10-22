@@ -30,11 +30,11 @@ The user must have the needed rights as a teacher to create a task.
 
 ## 4. Preconditions
 ### 4.1 User needs to be logged in
-The user needs to be authentificated, to get the specific user rights. He also have to be a teacher, just the users with a teacher roles have the access to create a new task.
+The user needs to be authenticated, to get the specific user rights. He also have to be a teacher, just the users with a teacher roles have the access to create a new task.
 
 ## 5. Postconditions
 ### 5.1 New Task is created
-A new task is created in the DB and accesable for the teacher and for the assigned class.
+A new task is created in the DB and accessible for the teacher and for the assigned class.
  __picture must be inserted__
   
 ## 6. Extension Points
