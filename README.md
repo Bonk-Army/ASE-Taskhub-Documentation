@@ -123,23 +123,23 @@ Until June, we want to implement:
 
 #### 3.1.1 Create a Class
 The Use Case "Create a Class" is described in the CRUD - Class.  
-![Here you can find our CRUD](./UC/UCD/CRUD-Class/Readme.md)
+![Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
 
 #### 3.1.2. Assign Teacher
 The Use Case "Assign Teacher" is described in the CRUD - Class.  
-![Here you can find our CRUD](./UC/UCD/CRUD-Class/Readme.md)
+![Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
 
 #### 3.1.3. Add User to Class
 The Use Case "Add User to Class" is described in the CRUD - Class.  
-![Here you can find our CRUD](./UC/UCD/CRUD-Class/Readme.md)
+![Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
 
 #### 3.1.4. Create new Task
 The Use Case "Create new Task" is described in the CRUD - Task.  
-![Here you can find our CRUD](./UC/UCD/CRUD-Task/Readme.md)
+![Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Task)
 
 #### 3.1.5. Edit Solution
 The Use Case "Edit Solution" is described in the CRUD - Solution.  
-![Here you can find our CRUD](./UC/UCD/CRUD-Solution/Readme.md)
+![Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Solution)
 
 ### 3.2 Usability
 We want to create an lightway easy to use Webapp for working together colloborative.
