@@ -1,4 +1,4 @@
-# DigitalJournal
+# TaskHub
 ## Use-Case Specification: Create a Solution  v. <1.0>
 
 ## 1. Use-Case CreateAClass
