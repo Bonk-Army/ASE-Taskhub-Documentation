@@ -1,4 +1,4 @@
-# DigitalJournal
+# TaskHub
 ## Use-Case Specification: AssignTeacher  v. <1.0>
 
 
