@@ -122,24 +122,24 @@ Until June, we want to implement:
 - Notifications
 
 #### 3.1.1 Create a Class
-The Use Case "Create a Class" describes how an admin can create a new class.
-[Here you can find our UC](./UC/UCD/AddUserToClass/UCS_CreateClass.md)
+The Use Case "Create a Class" is described in the CRUD - Class.
+[Here you can find our CRUD](./UC/UCD/CRUD - Class/Readme.md)
 
 #### 3.1.2. Assign Teacher
-The Use Case "Assign Teacher" describes how an admin can give an existing user the teacher role.
-[Here you can find our UC](./UC/UCD/AddUserToClass/UCS_AssignTeacher.md)
+The Use Case "Assign Teacher" is described in the CRUD - Class.
+[Here you can find our CRUD](./UC/UCD/CRUD - Class/Readme.md)
 
 #### 3.1.3. Add User to Class
-The Use Case "Add User to Class" describes how an admin can add some existing users to an existing class.
-[Here you can find our UC](./UC/UCD/AddUserToClass/UCS_AddUserToClass.md)
+The Use Case "Add User to Class" is described in the CRUD - Class.
+[Here you can find our CRUD](./UC/UCD/CRUD - Class/Readme.md)
 
 #### 3.1.4. Create new Task
-The Use Case "Create new Task" describes how a teacher can create a new task for an existing class with a deadline.
-[Here you can find our UC](./UC/UCD/AddUserToClass/UCS_CreateNewTask.md)
+The Use Case "Create new Task" is described in the CRUD - Task.
+[Here you can find our CRUD](./UC/UCD/CRUD - Task/Readme.md)
 
 #### 3.1.5. Edit Solution
-The Use Case "Edit Solution" describes how a teammate can edit solutions for an existing task.
-[Here you can find our UC](./UC/UCD/AddUserToClass/UCS_EditSolution.md)
+The Use Case "Edit Solution" is described in the CRUD - Solution.
+[Here you can find our CRUD](./UC/UCD/CRUD - Solution/Readme.md)
 
 ### 3.2 Usability
 We want to create an lightway easy to use Webapp for working together colloborative.
