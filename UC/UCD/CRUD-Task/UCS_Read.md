@@ -22,7 +22,7 @@ The user must have the needed rights as a teacher or class member to read a task
 
 ## 4. Preconditions
 ### 4.1 User needs to be logged in
-The user needs to be authentificated, to get the specific user rights. He also have to be a teacher or class member, just the users which are assigend to the task have the access to read the task.
+The user needs to be authenticated, to get the specific user rights. He also have to be a teacher or class member, just the users which are assigend to the task have the access to read the task.
 
 ## 5. Postconditions
 ### 5.1 Task is read
