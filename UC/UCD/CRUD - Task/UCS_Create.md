@@ -1,4 +1,4 @@
-# DigitalJournal
+# TaskHub
 ## Use-Case Specification: Create new task  v. <1.0>
 
 ## 1. Use-Case Create new task
