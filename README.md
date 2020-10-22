@@ -120,17 +120,14 @@ Until June, we want to implement:
 - Grading
 - Notifications
 
-#### 3.1.1 User Registration
-The User should be able to register.
+#### 3.1.1 Create a Class
+asdasdadsdssdsdas
+[Link to our UC](./UC/UCD/AddUserToClass/UCS_AddUserToClass.md)
 
-#### 3.1.2 Classes
-The registered User can be assigned to an class.
-
-#### 3.1.3 Teams
-The registered User should be able to join a team.
-
-#### 3.1.4 Colloborative Work
-The different users should be able to make an solution together
+#### 3.1.2. Assign Teacher
+#### 3.1.3. Add User to Class
+#### 3.1.4. Create new Task
+#### 3.1.5. Edit Solution
 
 ### 3.2 Usability
 We want to create an lightway easy to use Webapp for working together colloborative.
