@@ -1,15 +1,19 @@
 # DigitalJournal
-## Use-Case Specification: <NAME>  v. <1.0>
+## Use-Case Specification: AssignTeacher  v. <1.0>
 
-Lorem Ispum...
 
-## 1. Use-Case <NAME>
+
+## 1. Use-Case AssignTeacher
 
 ### 1.1 Brief Description
 
-Will be added later...
+We add in the new created class a new teacher role.
 
 ## 2. Flow of Events
+
+### 2.1 Basic Flow
+
+The Basic Flow of this Usecase is, that in the new created class object a user get the teacher role to get more rights. This user will get a true boolean in the database.
 
 ## 3. Special Requirements
 
@@ -17,12 +21,13 @@ Will be added later...
 
 ## 4. Preconditions
 
-### 4.1 <Precondition One>
+### 4.1 <Create a class>
+  There must be a class first bevor the teacher could be assigned
 
 ## 5. Postconditions
 
-### 5.1 <Postcondition One>
-
+### 5.1 <Teacher is Assigned>
+The User is assigned as a teacher in database so the teacher boolean must be true.
 ## 6. Extension Points
 
 **n / a**
