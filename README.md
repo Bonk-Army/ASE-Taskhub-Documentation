@@ -122,24 +122,24 @@ Until June, we want to implement:
 - Notifications
 
 #### 3.1.1 Create a Class
-The Use Case "Create a Class" is described in the CRUD - Class.
-[Here you can find our CRUD](./UC/UCD/CRUD - Class/Readme.md)
+The Use Case "Create a Class" is described in the CRUD - Class.  
+![Here you can find our CRUD](./UC/UCD/CRUD-Class/Readme.md)
 
 #### 3.1.2. Assign Teacher
-The Use Case "Assign Teacher" is described in the CRUD - Class.
-[Here you can find our CRUD](./UC/UCD/CRUD - Class/Readme.md)
+The Use Case "Assign Teacher" is described in the CRUD - Class.  
+![Here you can find our CRUD](./UC/UCD/CRUD-Class/Readme.md)
 
 #### 3.1.3. Add User to Class
-The Use Case "Add User to Class" is described in the CRUD - Class.
-[Here you can find our CRUD](./UC/UCD/CRUD - Class/Readme.md)
+The Use Case "Add User to Class" is described in the CRUD - Class.  
+![Here you can find our CRUD](./UC/UCD/CRUD-Class/Readme.md)
 
 #### 3.1.4. Create new Task
-The Use Case "Create new Task" is described in the CRUD - Task.
-[Here you can find our CRUD](./UC/UCD/CRUD - Task/Readme.md)
+The Use Case "Create new Task" is described in the CRUD - Task.  
+![Here you can find our CRUD](./UC/UCD/CRUD-Task/Readme.md)
 
 #### 3.1.5. Edit Solution
-The Use Case "Edit Solution" is described in the CRUD - Solution.
-[Here you can find our CRUD](./UC/UCD/CRUD - Solution/Readme.md)
+The Use Case "Edit Solution" is described in the CRUD - Solution.  
+![Here you can find our CRUD](./UC/UCD/CRUD-Solution/Readme.md)
 
 ### 3.2 Usability
 We want to create an lightway easy to use Webapp for working together colloborative.
