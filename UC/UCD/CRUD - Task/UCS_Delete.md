@@ -1,7 +1,7 @@
 # TaskHub
 ## Use-Case Specification: Delete new task  v. <1.0>
 
-## 1. Use-Case Create new task
+## 1. Use-Case Delete new task
 
 ### 1.1 Brief Description
 In this UC we describe, how an user can delet an existing task.
@@ -25,7 +25,7 @@ The user must have the needed rights as a teacher to delete a task.
 The user needs to be authentificated, to get the specific user rights. He also have to be a teacher, just the users with a teacher role have the access to delete a new task.
 
 ## 5. Postconditions
-### 5.1 New Task is created
+### 5.1 Task is deleted
 The task will be updated as "deleted" in the DB and it is not yet accesable for the teacher and for the assigned class.
  __picture must be inserted__
   
