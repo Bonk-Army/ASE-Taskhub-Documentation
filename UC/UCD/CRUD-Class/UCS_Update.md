@@ -1,13 +1,16 @@
 # TaskHub
-## Use-Case Specification: AssignTeacher  v. <1.0>
+## Use-Case Specification: Update Class  v. <1.0>
 
 
 
-## 1. Use-Case AssignTeacher
+## 1. Use-Case
 
-### 1.1 Brief Description
+### 1.1 Use-Case Assign Teacher
 
-We add in the new created class a new teacher role.
+We add in the created class a new teacher role.
+
+### 1.2 Use-Case Add Student
+We add in the created class a new student which should be a registered user.
 
 ## 2. Flow of Events
 
