@@ -143,17 +143,17 @@ The Use Case "Edit Solution" is described in the CRUD - Solution.
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Solution)
 
 #### 3.1.1 Use Cases
-Most of this cases are covered by our CRUD Documentation, but for the .feature Files we added Activity Diagramms
+Most of this cases are covered by our CRUD Documentation, but for the .feature Files we added Activity Diagramms (AD) and Cucumber Testcases (TC).
 ##### 3.1.1.1 Create a Class
-[AD-Class](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/CreateAClass/CreateAClass.md)
+[Here you can find our AD and TC](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/CreateAClass/CreateAClass.md)
 ##### 3.1.1.2 Assign Teacher
-[AD-Class](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/AssignTeacher/AssignTeacher.md)
+[Here you can find our AD and TC](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/AssignTeacher/AssignTeacher.md)
 ##### 3.1.1.3 Add User to Class
-[AD-Class](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/AssignStudent/AssignStudent.md)
+[Here you can find our AD and TC](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/AssignStudent/AssignStudent.md)
 ##### 3.1.1.4 Create new Task
-[AD-Class](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/CreateTask/CreateTask.md)
+[Here you can find our AD and TC](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/CreateTask/CreateTask.md)
 ##### 3.1.1.5 Edit Solution
-[AD-Class](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/EditSolution/EditSolution.md)
+[Here you can find our AD and TC](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/EditSolution/EditSolution.md)
 
 ### 3.2 Usability
 We want to create an lightway easy to use Webapp for working together colloborative.
