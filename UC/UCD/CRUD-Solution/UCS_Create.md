@@ -1,4 +1,4 @@
-# DigitalJournal
+# TaskHub
 ## Use-Case Specification: Create a Solution  v. <1.0>
 
 ## 1. Use-Case CreateAClass
@@ -20,7 +20,7 @@ The user must have the needed rights as an Teamleader to submit a solution.
 
 ## 4. Preconditions
 ### 4.1 User needs to be logged in
-The user needs to be authentificated, to get the specific user rights.
+The user needs to be authenticated, to get the specific user rights.
 
 ## 5. Postconditions
 ### 5.1 Solution is submitted
