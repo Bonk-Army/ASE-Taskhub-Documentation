@@ -145,7 +145,7 @@ The Use Case "Edit Solution" is described in the CRUD - Solution.
 #### 3.1.1 Use Cases
 Most of this cases are covered by our CRUD Documentation, but for the .feature Files we added Activity Diagramms (AD) and Cucumber Testcases (TC).
 ##### 3.1.1.1 Create a Class
-[Here you can find our AD and TC](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/CreateAClass/CreateAClass.md)
+[Here you can find our AD and TC](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/CreateAClass/CreateAClass)
 ##### 3.1.1.2 Assign Teacher
 [Here you can find our AD and TC](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/AssignTeacher/AssignTeacher.md)
 ##### 3.1.1.3 Add User to Class
