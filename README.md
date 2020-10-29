@@ -121,25 +121,39 @@ Until June, we want to implement:
 - Grading
 - Notifications
 
-#### 3.1.1 Create a Class
+#### 3.1.1 CRUD
+##### 3.1.1.1 Class
 The Use Case "Create a Class" is described in the CRUD - Class.  
-![Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
+[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
 
-#### 3.1.2. Assign Teacher
+##### 3.1.1.2 Teacher
 The Use Case "Assign Teacher" is described in the CRUD - Class.  
-![Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
+[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
 
-#### 3.1.3. Add User to Class
+#### 3.1.1.3. Class
 The Use Case "Add User to Class" is described in the CRUD - Class.  
-![Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
+[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
 
-#### 3.1.4. Create new Task
+#### 3.1.1.4. Task
 The Use Case "Create new Task" is described in the CRUD - Task.  
-![Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Task)
+[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Task)
 
-#### 3.1.5. Edit Solution
+#### 3.1.1.5. Solution
 The Use Case "Edit Solution" is described in the CRUD - Solution.  
-![Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Solution)
+[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Solution)
+
+#### 3.1.1 Use Cases
+Most of this cases are covered by our CRUD Documentation, but for the .feature Files we added Activity Diagramms
+##### 3.1.1.1 Create a Class
+[AD-Class](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/CreateAClass.png)
+##### 3.1.1.2 Assign Teacher
+[AD-Class](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/AssignTeacher.png)
+##### 3.1.1.3 Add User to Class
+[AD-Class](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/AssignStudent.png)
+##### 3.1.1.4 Create new Task
+[AD-Class](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/CreateTask.png)
+##### 3.1.1.5 Edit Solution
+[AD-Class](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/EditSolution.png)
 
 ### 3.2 Usability
 We want to create an lightway easy to use Webapp for working together colloborative.
