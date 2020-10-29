@@ -1,7 +1,7 @@
 # TaskHub
-## Use-Case Specification: Create a Class  v. <1.0>
+## Use-Case Specification: Create a Team  v. <1.0>
 
-## 1. Use-Case CreateAClass
+## 1. Use-Case Create a Team
 
 ### 1.1 Brief Description
 In this UC we describe, how an Admin can create a new Team.
