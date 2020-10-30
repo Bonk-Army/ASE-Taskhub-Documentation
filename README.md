@@ -16,11 +16,18 @@ Version <1.0>
   * [2.3 Technology Stack](#23-technology-stack)
 - [3. Specific Requirements](#3-specific-requirements)
   * [3.1 Functionality](#31-functionality)
-    + [3.1.1 Create a Class](#311-create-a-class)
-    + [3.1.2. Assign Teacher](#312-assign-teacher)
-    + [3.1.3. Add User to Class](#313-add-user-to-class)
-    + [3.1.4. Create new Task](#314-create-new-task)
-    + [3.1.5. Edit Solution](#315-edit-solution)
+    + [3.1.1 CRUD](#311-crud)
+      - [3.1.1.1 Class](#3111-class)
+      - [3.1.1.2 Teacher](#3112-teacher)
+      - [3.1.1.3. Class](#3113-class)
+      - [3.1.1.4. Task](#3114-task)
+      - [3.1.1.5. Solution](#3115-solution)
+    + [3.1.1 Use Cases](#311-use-cases)
+      - [3.1.1.1 Create a Class](#3111-create-a-class)
+      - [3.1.1.2 Assign Teacher](#3112-assign-teacher)
+      - [3.1.1.3 Add User to Class](#3113-add-user-to-class)
+      - [3.1.1.4 Create new Task](#3114-create-new-task)
+      - [3.1.1.5 Edit Solution](#3115-edit-solution)
   * [3.2 Usability](#32-usability)
     + [3.2.1 Easy to understand](#321-easy-to-understand)
     + [3.2.2 No Overloaded features](#322-no-overloaded-features)
@@ -44,7 +51,6 @@ Version <1.0>
   * [3.11 Legal, Copyright, and Other Notices](#311-legal--copyright--and-other-notices)
   * [3.12 Applicable Standards](#312-applicable-standards)
 - [4. Supporting Information](#4-supporting-information)
-
 
 #Revision History
 -----
@@ -123,23 +129,18 @@ Until June, we want to implement:
 
 #### 3.1.1 CRUD
 ##### 3.1.1.1 Class
-The Use Case "Create a Class" is described in the CRUD - Class.  
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
 
-##### 3.1.1.2 Teacher
-The Use Case "Assign Teacher" is described in the CRUD - Class.  
+##### 3.1.1.2 Teacher 
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
 
-#### 3.1.1.3. Class
-The Use Case "Add User to Class" is described in the CRUD - Class.  
+##### 3.1.1.3. Class
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
 
-#### 3.1.1.4. Task
-The Use Case "Create new Task" is described in the CRUD - Task.  
+##### 3.1.1.4. Task
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Task)
 
-#### 3.1.1.5. Solution
-The Use Case "Edit Solution" is described in the CRUD - Solution.  
+##### 3.1.1.5. Solution 
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Solution)
 
 #### 3.1.1 Use Cases
