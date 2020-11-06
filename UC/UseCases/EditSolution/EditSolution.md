@@ -5,7 +5,7 @@ Activity Diagramm
 -----------------
 ![Activity Class](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/EditSolution/EditSolution.png)
 
-Cucumber Testcase
+[Cucumber Testcase](https://github.com/Unk3wn/TaskHub---Codebase/blob/master/CucumberTests/src/test/resource/EditASolution.feature)
 ----------------
         Feature: Edit a solution
           AS a Teacher or Student
