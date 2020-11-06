@@ -3,7 +3,7 @@ UC - Edit a solution
 
 Activity Diagramm
 -----------------
-![Activity Class](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UseCases/EditSolution/EditSolution.png)
+![Activity Class](https://github.com/Unk3wn/TaskHub---Documentation/blob/main/UC/UseCases/EditSolution/EditSolution.png)
 
 [Cucumber Testcase](https://github.com/Unk3wn/TaskHub---Codebase/blob/master/CucumberTests/src/test/resource/EditASolution.feature)
 ----------------
