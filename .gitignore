@@ -1,7 +1,1 @@
-# IntelliJ Stuff
-/target/
-*.iml
-.idea/
-
-# Other crap
-.DS_STORE
+/Documentation.iml
