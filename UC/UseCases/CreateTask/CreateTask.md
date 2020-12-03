@@ -3,7 +3,7 @@ UC - Create a task
 
 Activity Diagramm
 -----------------
-![Activity Class](https://github.com/Unk3wn/TaskHub---Documentation/blob/main/UC/UseCases/CreateTask/CreateTask.png)
+![Activity Class](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/CreateTask/CreateTask.png)
 
 [Cucumber Testcase](https://github.com/Unk3wn/TaskHub---Codebase/blob/master/CucumberTests/src/test/resource/CreateATask.feature)
 ----------------
