@@ -13,6 +13,7 @@ We add in the created class a new teacher role.
 We add in the created class a new student which should be a registered user.
 
 ## 2. Flow of Events
+![Flow](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/master/UC/UCD/CRUD-Class/AD_Update.png)
 
 ### 2.1 Basic Flow
 
