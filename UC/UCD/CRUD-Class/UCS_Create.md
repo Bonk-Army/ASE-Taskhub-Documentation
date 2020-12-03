@@ -7,8 +7,7 @@ TaskHub
 In this UC we describe, how an Admin can create a new Class.
 
 ## 2. Flow of Events
-Needs to be done....later
-__picture must be inserted__
+![Flow](https://github.com/Unk3wn/TaskHub---Documentation/edit/master/UC/UCD/CRUD-Class/AD_Create.png)
 
 ### 2.1 Basic Flow
 The Basic flow of this UC is, that an admin creates a new class object in our persistent Database. He needs only a name of the new class. Every other variable gets generated automatically. He also needs to repeat the classname to minimize the chance of mistyping. If the two names match the new class gets written to the Database.
