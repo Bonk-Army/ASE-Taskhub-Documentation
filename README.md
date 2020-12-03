@@ -133,9 +133,9 @@ Until June, we want to implement:
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Teacher)
 
 ##### 3.1.1.3. Other CRUD's not defined, because they are nearly the same as the two above
-[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Class)
-[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Task)
-[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Solution)
+[CRUD Class](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Class)  
+[CRUD Task](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Task)  
+[CRUD Solution](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Solution)  
 
 #### 3.1.1 Use Cases
 Most of this cases are covered by our CRUD Documentation, but for the .feature Files we added Activity Diagramms (AD) and Cucumber Testcases (TC).
