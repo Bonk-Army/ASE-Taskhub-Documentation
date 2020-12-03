@@ -69,7 +69,7 @@ We decided to use Spring MVC as our main framework. It allows us to unite backen
 ![Use Case](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UML/TaskHubUML.png?raw=true)
 
 ## 5. Logical View
-![Logical View](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/src/stack.png?raw=true)
+TODO
 
 ## 6. Process View
 TODO
