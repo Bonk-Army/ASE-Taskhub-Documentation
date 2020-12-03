@@ -58,12 +58,19 @@ This document contains the Architectural Representation, Goals and Constraints a
 as the Logical, Deployment, Implementation and Data Views.
 
 ## 2. Architectural Representation
-We are trying to implement according to the MVC pattern:
-
 ![Architecture](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/src/stack.png?raw=true)
 
 ## 3. Architectural Goals and Constraints
-We decided to use Spring MVC as our main framework. It allows us to unite backend, frontend development and the database integration in one code base.
+We are dividing the Frontend,Backend and Database. That we can swap each component very easily.
+
+### Database
+For the Database we use [Postgre](https://www.postgresql.org/), because we used that in the Past and are familiar with it.
+
+### Backend
+For the Backend we use a Node.js Server with ExpressJS and Sequelize to generate an REST API.
+
+###Frontend
+For the Frontend we use Angular to build our Webapp and connect to the REST API to get our Data.
 
 ## 4. Use-Case View
 ![Use Case](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UML/TaskHubUML.png?raw=true)
