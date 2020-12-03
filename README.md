@@ -132,7 +132,7 @@ Until June, we want to implement:
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Class)
 
 ##### 3.1.1.2 Teacher 
-[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Class)
+[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Teacher)
 
 ##### 3.1.1.3. Class
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Class)
