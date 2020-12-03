@@ -3,7 +3,7 @@ UC - AssignTeacher
 
 Activity Diagramm
 -----------------
-![Activity Class](https://github.com/Unk3wn/TaskHub---Documentation/blob/main/UC/UseCases/AssignTeacher/AssignTeacher.png)
+![Activity Class](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/AssignTeacher/AssignTeacher.png)
 
 [Cucumber Testcase](https://github.com/Unk3wn/TaskHub---Codebase/blob/master/CucumberTests/src/test/resource/AssignTeacher.feature)
 ----------------
