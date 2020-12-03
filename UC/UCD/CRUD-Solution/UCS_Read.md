@@ -7,8 +7,7 @@
 In this UC we describe, how an Teamleader can read a solution.
 
 ## 2. Flow of Events
-Needs to be done....later
-__picture must be inserted__
+![Flow](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/master/UC/UCD/CRUD-Solution/AD_Read.png)
 
 ### 2.1 Basic Flow
 The Basic flow of this UC is, that a user can read a solution which was submitted before.
