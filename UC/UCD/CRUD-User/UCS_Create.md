@@ -32,6 +32,3 @@ The user needs to be authenticated, to get the specific user rights.
 ## 5. Postconditions
 ### 5.1 New Class is created
 A new class is created in the DB and accesable in the Admin GUI.
-  
-## 6. Extension Points
-![FP](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UC/UCD/CreateAClass/FP_CreateAClass.png)
