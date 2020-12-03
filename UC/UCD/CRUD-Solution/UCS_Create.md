@@ -7,8 +7,7 @@
 In this UC we describe, how a Teamleader create a new Solution.
 
 ## 2. Flow of Events
-Needs to be done....later
-__picture must be inserted__
+![Flow](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/master/UC/UCD/CRUD-Solution/AD_Create.png)
 
 ### 2.1 Basic Flow
 The Basic flow of this UC is, that a Teamleader submit a new Solution object in our persistent Database. He needs only a name of the new Solution. Every other variable gets generated automatically.
