@@ -10,6 +10,7 @@
 An user which has a teacher role for this class is able to look at the class.
 
 ## 2. Flow of Events
+![Flow](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/master/UC/UCD/CRUD-Class/AD_Read.png)
 
 ### 2.1 Basic Flow
 
