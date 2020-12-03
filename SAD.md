@@ -67,10 +67,10 @@ We are dividing the Frontend,Backend and Database. That we can swap each compone
 For the Database we use [Postgre](https://www.postgresql.org/), because we used that in the Past and are familiar with it.
 
 ### Backend
-For the Backend we use a Node.js Server with ExpressJS and Sequelize to generate an REST API.
+For the Backend we use a [Node.js](https://nodejs.org/en/) Server with [ExpressJS]() and [Sequelize](https://sequelize.org/) to generate an REST API.
 
 ###Frontend
-For the Frontend we use Angular to build our Webapp and connect to the REST API to get our Data.
+For the Frontend we use [Angular](https://angular.io/) to build our Webapp and connect to the REST API to get our Data.
 
 ## 4. Use-Case View
 ![Use Case](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UML/TaskHubUML.png?raw=true)
