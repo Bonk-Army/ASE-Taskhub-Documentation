@@ -103,7 +103,7 @@ The main functions of our webapp are the collaborative features. In our vision m
 We got inspired by an CTF Tool, which many teams use in their workflow. In this tool you can create tasks with notes on specific topics. Also you can set deadlines or assign a specific member, an expert, to a task.
 
 ### 2.2 Use Case Diagram
-[<img src="https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/main/UML/TaskHubUML.png">](UML)
+[<img src="https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/master/UML/TaskHubUML.png">](UML)
 
 ### 2.3 Technology Stack
 - L inux
@@ -129,32 +129,32 @@ Until June, we want to implement:
 
 #### 3.1.1 CRUD
 ##### 3.1.1.1 Class
-[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
+[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Class)
 
 ##### 3.1.1.2 Teacher 
-[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
+[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Class)
 
 ##### 3.1.1.3. Class
-[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Class)
+[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Class)
 
 ##### 3.1.1.4. Task
-[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Task)
+[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Task)
 
 ##### 3.1.1.5. Solution 
-[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/main/UC/UCD/CRUD-Solution)
+[Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Solution)
 
 #### 3.1.1 Use Cases
 Most of this cases are covered by our CRUD Documentation, but for the .feature Files we added Activity Diagramms (AD) and Cucumber Testcases (TC).
 ##### 3.1.1.1 Create a Class
-[Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/main/UC/UseCases/CreateAClass/CreateAClass.md)
+[Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/CreateAClass/CreateAClass.md)
 ##### 3.1.1.2 Assign Teacher
-[Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/main/UC/UseCases/AssignTeacher/AssignTeacher.md)
+[Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/AssignTeacher/AssignTeacher.md)
 ##### 3.1.1.3 Add User to Class
-[Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/main/UC/UseCases/AssignStudent/AssignStudent.md)
+[Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/AssignStudent/AssignStudent.md)
 ##### 3.1.1.4 Create new Task
-[Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/main/UC/UseCases/CreateTask/CreateTask.md)
+[Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/CreateTask/CreateTask.md)
 ##### 3.1.1.5 Edit Solution
-[Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/main/UC/UseCases/EditSolution/EditSolution.md)
+[Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/EditSolution/EditSolution.md)
 
 ### 3.2 Usability
 We want to create an lightway easy to use Webapp for working together colloborative.
@@ -223,7 +223,7 @@ The logo is licensed to the TaskHub Team and is only allowed to use for the appl
 The development will follow the common clean code standards and naming conventions. Also we will create a definition of d which will be added here as soon as its complete.
 
 ## 4. Supporting Information
-For any further information you can contact the TaskHub Team or check our (TaskHub Blog)[https://taskhub854228916.wordpress.com/]. The Team Members are:
+For any further information you can contact the TaskHub Team or check our [TaskHub Blog](https://taskhub854228916.wordpress.com/). The Team Members are:
 - Nico
 - Krissi
 - Danny
