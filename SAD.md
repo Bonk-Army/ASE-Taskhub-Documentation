@@ -60,7 +60,7 @@ as the Logical, Deployment, Implementation and Data Views.
 ## 2. Architectural Representation
 We are trying to implement according to the MVC pattern:
 
-![MVC structure](../SAD/mvc_structure.png)
+![Architecture](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/src/stack.png?raw=true)
 
 ## 3. Architectural Goals and Constraints
 We decided to use Spring MVC as our main framework. It allows us to unite backend, frontend development and the database integration in one code base.
