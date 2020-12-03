@@ -69,7 +69,7 @@ For the Database we use [Postgre](https://www.postgresql.org/), because we used 
 ### Backend
 For the Backend we use a [Node.js](https://nodejs.org/en/) Server with [ExpressJS]() and [Sequelize](https://sequelize.org/) to generate an REST API.
 
-###Frontend
+### Frontend
 For the Frontend we use [Angular](https://angular.io/) to build our Webapp and connect to the REST API to get our Data.
 
 ## 4. Use-Case View
