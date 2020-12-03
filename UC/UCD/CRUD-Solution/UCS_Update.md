@@ -7,8 +7,7 @@
 In this UC we describe, how an user can update an existing not submitted solution.
 
 ## 2. Flow of Events
-Needs to be done....later
-__picture must be inserted__
+![Flow](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/master/UC/UCD/CRUD-Solution/AD_Update.png)
 
 ### 2.1 Basic Flow
 The Basic flow of this UC is, that an user updates an existing solution object in our persistent Database. He needs the solution object to update it and the changes. The teacher can only update solutions from his team.
