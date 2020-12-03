@@ -46,11 +46,11 @@ This document describes the technical architecture of the TaskHub project, inclu
 | [TaskHub Blog](https://taskhub854228916.wordpress.com/)   	                                                                       	| 2020-12-03   | TaskHub Team              |
 | [Repository on GitHub - Code ](https://github.com/Unk3wn/TaskHub---Codebase)	  	                                                  | 2020-12-03   | TaskHub Team              |
 | [Repository on GitHub - Docu ](https://github.com/Unk3wn/TaskHub---Documentation)	                                                  | 2020-12-03   | TaskHub Team              |
-| [UC Assiugn Student](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/AssignStudent/AssignStudent.md)      | 2020-12-03   | TaskHub Team              |
-| [UC Assiugn Student](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/AssignTeacher/AssignTeacher.md)      | 2020-12-03   | TaskHub Team              |
-| [UC Assiugn Student](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/CreateAClass/CreateAClass.md)        | 2020-12-03   | TaskHub Team              |
-| [UC Assiugn Student](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/CreateTask/CreateTask.md)            | 2020-12-03   | TaskHub Team              |
-| [UC Assiugn Student](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/EditSolution/EditSolution.md)        | 2020-12-03   | TaskHub Team              |
+| [UC Assign Student](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/AssignStudent/AssignStudent.md)      | 2020-12-03   | TaskHub Team              |
+| [UC Assign Teacher](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/AssignTeacher/AssignTeacher.md)      | 2020-12-03   | TaskHub Team              |
+| [UC CreateAClass](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/CreateAClass/CreateAClass.md)        | 2020-12-03   | TaskHub Team              |
+| [UC CreateTask](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/CreateTask/CreateTask.md)            | 2020-12-03   | TaskHub Team              |
+| [UC EditSolution](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/EditSolution/EditSolution.md)        | 2020-12-03   | TaskHub Team              |
 | [SRS](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/README.md)                                                      | 2020-12-03   | TaskHub Team              |
 
 ### 1.5 Overview
