@@ -7,8 +7,7 @@
 In this UC we describe, how an Admin can delete a Class.
 
 ## 2. Flow of Events
-Needs to be done....later
-__picture must be inserted__
+![Flow](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/master/UC/UCD/CRUD-Class/AD_Delete.png)
 
 ### 2.1 Basic Flow
 The Basic flow of this UC is, that an admin deletes class object in our persistent Database. He needs only a name of the class. He also needs to repeat the classname to minimize the chance of mistyping. If the two names match the class gets deletet off the Database.
