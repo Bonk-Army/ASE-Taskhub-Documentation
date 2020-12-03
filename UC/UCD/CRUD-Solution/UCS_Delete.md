@@ -7,8 +7,7 @@
 In this UC we describe, how an Teamleader can delete a Solution.
 
 ## 2. Flow of Events
-Needs to be done....later
-__picture must be inserted__
+![Flow](https://raw.githubusercontent.com/Unk3wn/TaskHub---Documentation/master/UC/UCD/CRUD-Solution/AD_Delete.png)
 
 ### 2.1 Basic Flow
 The Basic flow of this UC is, that a Teamleader can delete a solution which was submitted before.
