@@ -19,9 +19,7 @@ Version <1.0>
     + [3.1.1 CRUD](#311-crud)
       - [3.1.1.1 Class](#3111-class)
       - [3.1.1.2 Teacher](#3112-teacher)
-      - [3.1.1.3. Class](#3113-class)
-      - [3.1.1.4. Task](#3114-task)
-      - [3.1.1.5. Solution](#3115-solution)
+      - [3.1.1.3. Other CRUD's not defined, because they are nearly the same as the two above](#3113-class)
     + [3.1.1 Use Cases](#311-use-cases)
       - [3.1.1.1 Create a Class](#3111-create-a-class)
       - [3.1.1.2 Assign Teacher](#3112-assign-teacher)
@@ -134,13 +132,9 @@ Until June, we want to implement:
 ##### 3.1.1.2 Teacher 
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Teacher)
 
-##### 3.1.1.3. Class
+##### 3.1.1.3. Other CRUD's not defined, because they are nearly the same as the two above
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Class)
-
-##### 3.1.1.4. Task
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Task)
-
-##### 3.1.1.5. Solution 
 [Here you can find our CRUD](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Solution)
 
 #### 3.1.1 Use Cases
