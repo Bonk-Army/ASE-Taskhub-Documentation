@@ -83,7 +83,7 @@ TODO
 ![Deployment View](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/src/DeploymentView.png?raw=true)
 
 ## 9. Data View
-![Database View](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/src/database.png?raw=true))
+![Database View](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/src/database.png?raw=true)
 
 ## 10. Size and Performance
 n/a
