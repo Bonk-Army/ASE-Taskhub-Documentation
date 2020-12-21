@@ -52,9 +52,10 @@ Version <1.0>
 
 #Revision History
 -----
-|    Date    | Version |    Description    | Author |
-|------------|---------|-------------------|--------|
-| 15.10.2020 |   1.0   |  initial Release  |  Nico  |
+|    Date    | Version |    Description         | Author   |
+|------------|---------|------------------------|----------|
+| 15.10.2020 |   1.0   |  initial Release       |  Nico    |
+| 21.12.2020 |   2.0   |  midterm presentation  |  Krissi  |
 
 ## 1. Introduction
 
