@@ -3,13 +3,18 @@
 ## 1.	Introduction
 ### 1.1	Purpose
 The purpose of the Iteration Test Plan is to gather all of the information necessary to plan and control the test effort for a given iteration. 
-It describes the approach to testing the software.
+It describes the approach to testing the software. This Test Plan for TaskHUB supports the following objectives:
+
+- Identifies the items that should be targeted by the tests.
+- Identifies the motivation for and ideas behind the test areas to be covered.
+- Outlines the testing approach that will be used.
+- Identifies the required resources and provides an estimate of the test efforts.
 
 ### 1.2	Scope
-This document describes the used tests.
+This document describes the functionality and usability of tests.
 
 ### 1.3	Intended Audience
-n/a
+This test plan is intended to help everyone that either wants to use our code and / or tests by giving a clearer structure about our testing strategies.
 
 ### 1.4	Document Terminology and Acronyms
 - **SRS**	Software Requirements Specification
@@ -20,14 +25,19 @@ n/a
 | Reference        | 
 | ------------- |
 | [Blog](https://taskhub854228916.wordpress.com/) | 
+| [GitHub Repository](https://github.com/Unk3wn/TaskHub---Codebase) | 
 | [SRS](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/README.md)|
 | [SAD](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/SAD.md)|
 
 ## 2.	Evaluation Mission and Test Motivation
+The tests will mainly be written to ensure that any changes in the future don't break the application. As part of the tests will also be run as a part of our CI/CD system, any changes that cause a test to fail will not get merged until the issue is fixed.
 ### 2.1	Background
-By testing our project, we try to ensure that feature changes to our source code don't break functionality.
+Testing serves to ensure that the written code does what it is intended to do. It also prevents future code changes to break existing functionality unnoticed. In the context of integration it can also prevent broken software states to be merged into secured VC branches.
 ### 2.2	Evaluation Mission
-n/a
+- find as many bugs as possible
+- find important problems
+- advise about product quality
+- avoid merging breaking changes
 ### 2.3	Test Motivators
 Our testing is motivated by 
 - quality risks 
@@ -35,27 +45,40 @@ Our testing is motivated by
 - functional requirements
 
 ## 3.	Target Test Items
+The listing below identifies those test items software, hardware, and supporting product elements that have been identified as targets for testing. As we don't have the infrastructure to perform hardware and operating system tests, our tests will focus on the code we write.
 
 ## 4.	Outline of Planned Tests
 ### 4.1	Outline of Test Inclusions
-n/a
+|Frontend: Angular|UI testing of views/fragments|
+||Unit testing|
+|Backend: Node and Express| API testing |
+
+The tests themself will not be tested and will not account into code coverage.
+
 ### 4.2	Outline of Other Candidates for Potential Inclusion
 n/a
 ### 4.3 Outline of Test Exclusions
-n/a
+Hardware and operating systems will not be tested as we don't have the infrastructure to do this.
 
 ## 5.	Test Approach
 ### 5.1	Testing Techniques and Types
 n/a
 #### 5.1.1	Function and Database Integrity Testing
-n/a
+|---|Description|
+|Technique Objective|Every endpoint should be accessible and return the correct data if the correct input parameters are supplied|
+|Technique|The endpoints are accessed via postman and the answers from the server are checked for correctness|
+|Oracles|The HTTP status code and the body type of the response are checked|
+|Required Tools|Postman|
+|Success Criteria|All endpoints return the expected data|
+|Special Consideration|-|
+
 #### 5.1.2	Unit Testing
 |||
-|---|---|
+|---|Description|
 |Technique Objective|Every request to the backend shall be done correctly. Possible exceptions are caught correctly.|
 |Technique|Unit testing the endpoints|
 |Oracles|user enter valid data, for example a valid username and a valid password|
-|Required Tools|Jasmine|
+|Required Tools|Jasmine, Karma|
 |Success Criteria|successful scenarios, all tests will pass|
 |Special Consideration|-|
 
@@ -64,7 +87,7 @@ n/a
 
 #### 5.1.4	User Interface Testing (Cucumber)
 || |
-|---|---|
+|---|Description|
 |Technique Objective  	| Every possible UI scenario should work flawless  |
 |Technique 		| Cucumber testing by integrating a special JS plugin into IntelliJ and running earlier specified .feature files  |
 |Oracles 		| The site looks as expected after performing a scenario |
@@ -111,13 +134,13 @@ n/a
 n/a
 
 ### 7.2	Reporting on Test Coverage
-tbd
+Karma creates a detailed code coverage report every time the frontend is tested. It provides overall coverage which is also reflected in our GitHub README as well as detailed coverage per file.
 
 ### 7.3	Perceived Quality Reports
 n/a
 
 ### 7.4	Incident Logs and Change Requests
-n/a
+Incidents and Change Requests are handled via our project management tool YouTrack.
 
 ### 7.5	Smoke Test Suite and Supporting Test Scripts
 n/a
@@ -129,7 +152,9 @@ n/a
 n/a
 
 #### 7.6.2	Additional Automated Functional Test Scripts
-n/a
+- [API Tests](https://github.com/Unk3wn/TaskHub---Codebase/blob/master/Backend/0_Postman/TaskHub.postman_collection.json)
+- [Unit Tests](https://github.com/Unk3wn/TaskHub---Codebase/tree/master/Frontend/src) (in each component)
+- [Functional Tests](https://github.com/Unk3wn/TaskHub---Codebase/tree/master/CucumberTests/src/test)
 
 #### 7.6.3	Test Guidelines
 n/a
@@ -138,16 +163,26 @@ n/a
 n/a
 
 ## 8.	Testing Workflow
+Tests should be written and (if required) adjusted alongside the development.
 
 ## 9.	Environmental Needs
 ### 9.1	Base System Hardware
 n/a
 
 ### 9.2	Base Software Elements in the Test Environment
-n/a
+The following base software elements are required in the test environment for this Test Plan.
+|Software Element Name	|Type and Other Notes|
+|IntelliJ|	Test Runner / IDE|
+|Jasime / Karma|	Unit testing library|
+|Cucumber	|human readable test definitions|
 
 ### 9.3	Productivity and Support Tools
-n/a
+The following tools will be employed to support the test process for this Test Plan.
+|Tool |Category or Type|	Tool Brand Name	|Vendor or In-house|	Version|
+|Test Management|	Karma.js	|Open-Source|	6.3.2|
+|Test Coverage Monitor or Profiler|	Karma.js	|Open-Source	|6.3.2|
+|Project Management|	YouTrack	|JetBrains|	N/A|
+|DBMS tools	|IntelliJ|	JetBrains|2021.1|
 
 ### 9.4	Test Environment Configurations
 n/a
@@ -172,7 +207,7 @@ n/a
 | Have Unit Tests | 29.04.2021 | 05.05.2021 | 15.06.2021 | 04.06.2021 |
 | Have Cucumber Tests | 29.10.2021 | 30.10.2021 | 15.06.2021 | tbd |
 | Have API Tests | 29.04.2021 | 03.05.2021 | 15.06.2021 | 26.05.2021 |
-| 5% coverage | 29.04.2021 | 05.05.2021 | 15.06.2021 | tbd |
+| 50% coverage | 29.04.2021 | 05.05.2021 | 15.06.2021 | tbd |
 | Tests integrated in CI | - | - | - | - |
 
 
