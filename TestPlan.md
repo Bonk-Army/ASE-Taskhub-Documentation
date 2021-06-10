@@ -169,10 +169,11 @@ n/a
 
 | Milestone | Planned Start Date | Actual Start Date | Planned End Date | Actual End Date |
 |---|---|---|---|---|
-| Have Unit Tests |  |    |    |    |
-| Have Cucumber Tests |  |    |    |    |
-| 5% coverage |  |    |    |    |
-| Tests integrated in CI |  |  |  |  |
+| Have Unit Tests | 29.04.2021 | 05.05.2021 | 15.06.2021 | 04.06.2021 |
+| Have Cucumber Tests | 29.10.2021 | 30.10.2021 | 15.06.2021 | tbd |
+| Have API Tests | 29.04.2021 | 03.05.2021 | 15.06.2021 | 26.05.2021 |
+| 5% coverage | 29.10.2021 |  | 15.06.2021 |  |
+| Tests integrated in CI | - | - | - | - |
 
 
 ## 12.	Risks, Dependencies, Assumptions, and Constraints
