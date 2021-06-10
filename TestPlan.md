@@ -49,7 +49,7 @@ The listing below identifies those test items software, hardware, and supporting
 
 ## 4.	Outline of Planned Tests
 ### 4.1	Outline of Test Inclusions
-|||
+||type of tests|
 |---|---|
 |Frontend: Angular|UI testing of views/fragments|
 ||Unit testing|
@@ -66,8 +66,8 @@ Hardware and operating systems will not be tested as we don't have the infrastru
 ### 5.1	Testing Techniques and Types
 n/a
 #### 5.1.1	Function and Database Integrity Testing
-|---|---|
 ||Description|
+|---|---|
 |Technique Objective|Every endpoint should be accessible and return the correct data if the correct input parameters are supplied|
 |Technique|The endpoints are accessed via postman and the answers from the server are checked for correctness|
 |Oracles|The HTTP status code and the body type of the response are checked|
@@ -76,8 +76,8 @@ n/a
 |Special Consideration|-|
 
 #### 5.1.2	Unit Testing
-|---|---|
 ||Description|
+|---|---|
 |Technique Objective|Every request to the backend shall be done correctly. Possible exceptions are caught correctly.|
 |Technique|Unit testing the endpoints|
 |Oracles|user enter valid data, for example a valid username and a valid password|
@@ -89,8 +89,8 @@ n/a
 n/a
 
 #### 5.1.4	User Interface Testing (Cucumber)
-|---|---|
 ||Description|
+|---|---|
 |Technique Objective  	| Every possible UI scenario should work flawless  |
 |Technique 		| Cucumber testing by integrating a special JS plugin into IntelliJ and running earlier specified .feature files  |
 |Oracles 		| The site looks as expected after performing a scenario |
