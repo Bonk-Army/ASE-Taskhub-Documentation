@@ -74,13 +74,25 @@ For the Frontend we use [Angular](https://angular.io/) to build our Webapp and c
 ![Use Case](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UML/TaskHubUML.png?raw=true)
 
 ## 5. Logical View
-TODO
+Backend
+The Backend is split into the different API endpoints, allowing for easy understanding. For every endpoint, there is a router class, a service class and some interfaces. The router class handles the incoming requests and sends the responses and the service class is used for accessing the database and performing other checks, such as authorization.
+
+The following picture shows the class diagram:
+![Class diagram](https://taskhub854228916.files.wordpress.com/2020/11/public.png?w=752)
+
+Frontend
+The components in the frontend are divided into "pages" and "components" with pages being the angular components that build a whole page and components being small template components that can be used on different pages when needed
 
 ## 6. Process View
-TODO
+- When the user opens our page, the angular application is downloaded to the user's computer. By clicking through the pages, the application performs HTTP requests to our backend to load the required data.
+- If the user wants to add another product, the backend performs a callout to one of our crawling instances, causing it to fetch the required product details.
+- The nightly crawling process is centrally triggered from one crawler load balancing instance. This instance sends requests to the normal crawler instances, distributing the crawling tasks across all available instances.
 
 ## 7. Deployment View
 ![Deployment View](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/src/DeploymentView.png?raw=true)
+
+## 8. Implementation View
+n/a
 
 ## 9. Data View
 ![Database View](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/src/database.png?raw=true)
