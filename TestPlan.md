@@ -73,7 +73,6 @@ n/a
 |Special Consideration|-|
 
 #### 5.1.2	Unit Testing
-|||
 |---|Description|
 |Technique Objective|Every request to the backend shall be done correctly. Possible exceptions are caught correctly.|
 |Technique|Unit testing the endpoints|
@@ -86,7 +85,6 @@ n/a
 n/a
 
 #### 5.1.4	User Interface Testing (Cucumber)
-|| |
 |---|Description|
 |Technique Objective  	| Every possible UI scenario should work flawless  |
 |Technique 		| Cucumber testing by integrating a special JS plugin into IntelliJ and running earlier specified .feature files  |
@@ -94,7 +92,6 @@ n/a
 |Required Tools 	| Cucumber JS plugin |
 |Success Criteria	| All tests passed |
 |Special Considerations	|     -          |
-|| |
 
 #### 5.1.5	Performance Profiling 
 n/a
