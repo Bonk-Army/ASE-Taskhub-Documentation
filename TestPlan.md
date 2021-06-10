@@ -49,6 +49,8 @@ The listing below identifies those test items software, hardware, and supporting
 
 ## 4.	Outline of Planned Tests
 ### 4.1	Outline of Test Inclusions
+|||
+|---|---|
 |Frontend: Angular|UI testing of views/fragments|
 ||Unit testing|
 |Backend: Node and Express| API testing |
@@ -65,7 +67,7 @@ Hardware and operating systems will not be tested as we don't have the infrastru
 n/a
 #### 5.1.1	Function and Database Integrity Testing
 |---|---|
-|---|Description|
+||Description|
 |Technique Objective|Every endpoint should be accessible and return the correct data if the correct input parameters are supplied|
 |Technique|The endpoints are accessed via postman and the answers from the server are checked for correctness|
 |Oracles|The HTTP status code and the body type of the response are checked|
@@ -75,7 +77,7 @@ n/a
 
 #### 5.1.2	Unit Testing
 |---|---|
-|---|Description|
+||Description|
 |Technique Objective|Every request to the backend shall be done correctly. Possible exceptions are caught correctly.|
 |Technique|Unit testing the endpoints|
 |Oracles|user enter valid data, for example a valid username and a valid password|
