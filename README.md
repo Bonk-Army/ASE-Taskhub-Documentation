@@ -173,7 +173,7 @@ Should be quite quick, noone likes long loading apps
 Qick Loading Speed
 
 ### 3.5 Supportability
-to be determined (tbd)
+The service will be online as long as the domain belongs to us. We cannot guarantee that it will be online for a long time after the final presentation as this would imply costs for both the domain and the servers.
 
 #### 3.5.1 Supportability Requirement One
 [The requirement description goes here.]
