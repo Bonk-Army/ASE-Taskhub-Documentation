@@ -194,7 +194,6 @@ Documentation gets published on the Mentioned Repo on Point 1.4. But we also wan
 n/a
 
 ### 3.9 Interfaces
-to be determined (tbd)
 
 #### 3.9.1 User Interfaces
 We want to interact with the user in an Webapp.
@@ -209,7 +208,7 @@ We want to use RestAPI's for the most Part to connect the Frontend to the Backen
 n/a
 
 ### 3.10 Licensing Requirements
-to be determined (tbd)
+The project is licensed under the MIT License.
 
 ### 3.11 Legal, Copyright, and Other Notices
 The logo is licensed to the TaskHub Team and is only allowed to use for the application. We do not take responsibilty for any incorrect data or errors in the application.
