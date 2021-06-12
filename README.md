@@ -20,12 +20,12 @@ Version <1.0>
       - [3.1.1.1 Class](#3111-class)
       - [3.1.1.2 Teacher](#3112-teacher)
       - [3.1.1.3. Other CRUD's not defined, because they are nearly the same as the two above](#3113-class)
-    + [3.1.1 Use Cases](#311-use-cases)
-      - [3.1.1.1 Create a Class](#3111-create-a-class)
-      - [3.1.1.2 Assign Teacher](#3112-assign-teacher)
-      - [3.1.1.3 Add User to Class](#3113-add-user-to-class)
-      - [3.1.1.4 Create new Task](#3114-create-new-task)
-      - [3.1.1.5 Edit Solution](#3115-edit-solution)
+    + [3.1.2 Use Cases](#311-use-cases)
+      - [3.1.2.1 Create a Class](#3111-create-a-class)
+      - [3.1.2.2 Assign Teacher](#3112-assign-teacher)
+      - [3.1.2.3 Add User to Class](#3113-add-user-to-class)
+      - [3.1.2.4 Create new Task](#3114-create-new-task)
+      - [3.1.2.5 Edit Solution](#3115-edit-solution)
   * [3.2 Usability](#32-usability)
     + [3.2.1 Easy to understand](#321-easy-to-understand)
     + [3.2.2 No Overloaded features](#322-no-overloaded-features)
@@ -138,17 +138,17 @@ Until June, we want to implement:
 [CRUD Task](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Task)  
 [CRUD Solution](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Solution)  
 
-#### 3.1.1 Use Cases
+#### 3.1.2 Use Cases
 Most of this cases are covered by our CRUD Documentation, but for the .feature Files we added Activity Diagramms (AD) and Cucumber Testcases (TC).
-##### 3.1.1.1 Create a Class
+##### 3.1.2.1 Create a Class
 [Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/CreateAClass/CreateAClass.md)
-##### 3.1.1.2 Assign Teacher
+##### 3.1.2.2 Assign Teacher
 [Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/AssignTeacher/AssignTeacher.md)
-##### 3.1.1.3 Add User to Class
+##### 3.1.2.3 Add User to Class
 [Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/AssignStudent/AssignStudent.md)
-##### 3.1.1.4 Create new Task
+##### 3.1.2.4 Create new Task
 [Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/CreateTask/CreateTask.md)
-##### 3.1.1.5 Edit Solution
+##### 3.1.2.5 Edit Solution
 [Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/EditSolution/EditSolution.md)
 
 ### 3.2 Usability
