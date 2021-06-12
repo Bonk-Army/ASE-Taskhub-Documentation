@@ -99,4 +99,4 @@ n/a
 
 ## 11. Quality/Metrics
 We are planning to use Jenkins as an continuous integration tool to ensure a high quality of our development process. Whenever there is a new commit to a pull request or the master branch it automatically builds the project and executes all tests. The Jenkins build result will be displayed beside each commit on Github.
-* Reducing the amount of Bugs/Issues/Code Smells raised by SonarQube.
+* Reducing the amount of Bugs/Issues/Code Smells raised by Codacy. [Here](https://taskhub854228916.wordpress.com/2021/06/04/1%ef%b8%8f%e2%83%a38%ef%b8%8f%e2%83%a3-%f0%9f%86%95code-metrics/) you can see an overview.
