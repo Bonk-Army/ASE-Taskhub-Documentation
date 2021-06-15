@@ -64,7 +64,10 @@ This Software Requirements Specification (SRS) describes all specifications for 
 
 ### 1.2 Scope
 The project is going to be realized as an Web-Application.
-to be determined (tbd)
+Planned funtions are:
+- organizing tasks for classes
+- organizing users in classes or groups
+- rate solutions of user groups
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
