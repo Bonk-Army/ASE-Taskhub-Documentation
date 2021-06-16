@@ -209,9 +209,9 @@ n/a
 | Milestone | Planned Start Date | Actual Start Date | Planned End Date | Actual End Date |
 |---|---|---|---|---|
 | Have Unit Tests | 29.04.2021 | 05.05.2021 | 15.06.2021 | 04.06.2021 |
-| Have Cucumber Tests | 29.10.2021 | 30.10.2021 | 15.06.2021 | tbd |
+| Have Cucumber Tests | 29.10.2021 | 30.10.2021 | 15.06.2021 | 16.06.2021 |
 | Have API Tests | 29.04.2021 | 03.05.2021 | 15.06.2021 | 26.05.2021 |
-| 50% coverage | 29.04.2021 | 05.05.2021 | 15.06.2021 | tbd |
+| 50% coverage | 29.04.2021 | 05.05.2021 | 15.06.2021 | 16.06.2021 |
 | Tests integrated in CI | - | - | - | - |
 
 
