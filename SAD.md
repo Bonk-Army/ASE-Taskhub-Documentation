@@ -56,7 +56,7 @@ This document contains the Architectural Representation, Goals and Constraints a
 as the Logical, Deployment, Implementation and Data Views.
 
 ## 2. Architectural Representation
-![Architecture](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/src/stack.png?raw=true)
+![Architecture](https://unk3wn.github.io/TaskHub---Codebase/resources/TaskHub_Stack.png?raw=true)
 
 ## 3. Architectural Goals and Constraints
 We are dividing the Frontend,Backend and Database. That we can swap each component very easily.
@@ -97,6 +97,15 @@ n/a
 ## 10. Size and Performance
 n/a
 
-## 11. Quality/Metrics
+## 11. Quality
+### 1.1 Design Patterns
+Design patterns are proven solution templates for recurring design problems in software architecture and software development. [Here](https://taskhub854228916.wordpress.com/2021/05/16/1%ef%b8%8f%e2%83%a36%ef%b8%8f%e2%83%a3%f0%9f%8e%a8design-patterns/) you can see a detailed documentation of our design patterns. In the following you cann se which design patterns are used by our framewroks.
+#### 1.1.1 Express.js
+- Singleton: This pattern ensures that there is exactly one object of a class.
+- Prototype: With this pattern, new instances are created on the basis of templates. The template is copied and adapted to new requirements.
+#### 1.1.2 Angular
+- Observers: It belongs to the behavioural patterns category and is used to transfer changes to an object to structures that are dependent on this object.
+- Dependency injection: It is a design pattern in object-oriented programming and regulates the dependencies of an object at runtime.
+### 1.2 Metrics
 We are planning to use Jenkins as an continuous integration tool to ensure a high quality of our development process. Whenever there is a new commit to a pull request or the master branch it automatically builds the project and executes all tests. The Jenkins build result will be displayed beside each commit on Github.
 * Reducing the amount of Bugs/Issues/Code Smells raised by Codacy. [Here](https://taskhub854228916.wordpress.com/2021/06/04/1%ef%b8%8f%e2%83%a38%ef%b8%8f%e2%83%a3-%f0%9f%86%95code-metrics/) you can see an overview.
