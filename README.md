@@ -20,12 +20,12 @@ Version <1.0>
       - [3.1.1.1 Class](#3111-class)
       - [3.1.1.2 Teacher](#3112-teacher)
       - [3.1.1.3. Other CRUD's not defined, because they are nearly the same as the two above](#3113-class)
-    + [3.1.1 Use Cases](#311-use-cases)
-      - [3.1.1.1 Create a Class](#3111-create-a-class)
-      - [3.1.1.2 Assign Teacher](#3112-assign-teacher)
-      - [3.1.1.3 Add User to Class](#3113-add-user-to-class)
-      - [3.1.1.4 Create new Task](#3114-create-new-task)
-      - [3.1.1.5 Edit Solution](#3115-edit-solution)
+    + [3.1.2 Use Cases](#311-use-cases)
+      - [3.1.2.1 Create a Class](#3111-create-a-class)
+      - [3.1.2.2 Assign Teacher](#3112-assign-teacher)
+      - [3.1.2.3 Add User to Class](#3113-add-user-to-class)
+      - [3.1.2.4 Create new Task](#3114-create-new-task)
+      - [3.1.2.5 Edit Solution](#3115-edit-solution)
   * [3.2 Usability](#32-usability)
     + [3.2.1 Easy to understand](#321-easy-to-understand)
     + [3.2.2 No Overloaded features](#322-no-overloaded-features)
@@ -64,7 +64,10 @@ This Software Requirements Specification (SRS) describes all specifications for 
 
 ### 1.2 Scope
 The project is going to be realized as an Web-Application.
-to be determined (tbd)
+Planned funtions are:
+- organizing tasks for classes
+- organizing users in classes or groups
+- rate solutions of user groups
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
@@ -138,17 +141,17 @@ Until June, we want to implement:
 [CRUD Task](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Task)  
 [CRUD Solution](https://github.com/Unk3wn/TaskHub---Documentation/tree/master/UC/UCD/CRUD-Solution)  
 
-#### 3.1.1 Use Cases
+#### 3.1.2 Use Cases
 Most of this cases are covered by our CRUD Documentation, but for the .feature Files we added Activity Diagramms (AD) and Cucumber Testcases (TC).
-##### 3.1.1.1 Create a Class
+##### 3.1.2.1 Create a Class
 [Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/CreateAClass/CreateAClass.md)
-##### 3.1.1.2 Assign Teacher
+##### 3.1.2.2 Assign Teacher
 [Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/AssignTeacher/AssignTeacher.md)
-##### 3.1.1.3 Add User to Class
+##### 3.1.2.3 Add User to Class
 [Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/AssignStudent/AssignStudent.md)
-##### 3.1.1.4 Create new Task
+##### 3.1.2.4 Create new Task
 [Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/CreateTask/CreateTask.md)
-##### 3.1.1.5 Edit Solution
+##### 3.1.2.5 Edit Solution
 [Here you can find our AD and TC](https://github.com/Unk3wn/TaskHub---Documentation/blob/master/UC/UseCases/EditSolution/EditSolution.md)
 
 ### 3.2 Usability
@@ -173,7 +176,7 @@ Should be quite quick, noone likes long loading apps
 Qick Loading Speed
 
 ### 3.5 Supportability
-to be determined (tbd)
+The service will be online as long as the domain belongs to us. We cannot guarantee that it will be online for a long time after the final presentation as this would imply costs for both the domain and the servers.
 
 #### 3.5.1 Supportability Requirement One
 [The requirement description goes here.]
@@ -194,7 +197,6 @@ Documentation gets published on the Mentioned Repo on Point 1.4. But we also wan
 n/a
 
 ### 3.9 Interfaces
-to be determined (tbd)
 
 #### 3.9.1 User Interfaces
 We want to interact with the user in an Webapp.
@@ -209,7 +211,7 @@ We want to use RestAPI's for the most Part to connect the Frontend to the Backen
 n/a
 
 ### 3.10 Licensing Requirements
-to be determined (tbd)
+The project is licensed under the MIT License.
 
 ### 3.11 Legal, Copyright, and Other Notices
 The logo is licensed to the TaskHub Team and is only allowed to use for the application. We do not take responsibilty for any incorrect data or errors in the application.
