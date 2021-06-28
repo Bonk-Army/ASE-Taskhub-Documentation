@@ -183,6 +183,7 @@ The following base software elements are required in the test environment for th
 ### 9.3	Productivity and Support Tools
 The following tools will be employed to support the test process for this Test Plan.
 |Tool |Category or Type|	Tool Brand Name	|Vendor or In-house|	Version|
+|---|---|---|---|
 |Test Management|	Karma.js	|Open-Source|	6.3.2|
 |Test Coverage Monitor or Profiler|	Karma.js	|Open-Source	|6.3.2|
 |Project Management|	YouTrack	|JetBrains|	N/A|
