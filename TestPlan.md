@@ -64,7 +64,6 @@ Hardware and operating systems will not be tested as we don't have the infrastru
 
 ## 5.	Test Approach
 ### 5.1	Testing Techniques and Types
-n/a
 #### 5.1.1	Function and Database Integrity Testing
 ||Description|
 |---|---|
@@ -120,6 +119,7 @@ n/a
 n/a
 
 #### 5.1.12	Installation Testing
+n/a
 
 ## 6.	Entry and Exit Criteria
 ### 6.1	Test Plan
