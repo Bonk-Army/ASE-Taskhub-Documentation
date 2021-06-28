@@ -174,8 +174,8 @@ n/a
 ### 9.2	Base Software Elements in the Test Environment
 The following base software elements are required in the test environment for this Test Plan.
 
-|---|---|
 |Software Element Name	|Type and Other Notes|
+|---|---|
 |IntelliJ|	Test Runner / IDE|
 |Jasime / Karma|	Unit testing library|
 |Cucumber	|human readable test definitions|
