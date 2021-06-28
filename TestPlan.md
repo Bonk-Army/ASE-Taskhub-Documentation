@@ -64,7 +64,6 @@ Hardware and operating systems will not be tested as we don't have the infrastru
 
 ## 5.	Test Approach
 ### 5.1	Testing Techniques and Types
-n/a
 #### 5.1.1	Function and Database Integrity Testing
 ||Description|
 |---|---|
@@ -120,6 +119,7 @@ n/a
 n/a
 
 #### 5.1.12	Installation Testing
+n/a
 
 ## 6.	Entry and Exit Criteria
 ### 6.1	Test Plan
@@ -174,15 +174,17 @@ n/a
 ### 9.2	Base Software Elements in the Test Environment
 The following base software elements are required in the test environment for this Test Plan.
 
-|---|---|
 |Software Element Name	|Type and Other Notes|
+|---|---|
 |IntelliJ|	Test Runner / IDE|
 |Jasime / Karma|	Unit testing library|
 |Cucumber	|human readable test definitions|
 
 ### 9.3	Productivity and Support Tools
 The following tools will be employed to support the test process for this Test Plan.
-|Tool |Category or Type|	Tool Brand Name	|Vendor or In-house|	Version|
+
+|Tool Category or Type|	Tool Brand Name	|Vendor or In-house|	Version|
+|---|---|---|---|
 |Test Management|	Karma.js	|Open-Source|	6.3.2|
 |Test Coverage Monitor or Profiler|	Karma.js	|Open-Source	|6.3.2|
 |Project Management|	YouTrack	|JetBrains|	N/A|
